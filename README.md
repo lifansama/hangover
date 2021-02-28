@@ -134,3 +134,10 @@ reason. You'll have to install it elsewhere and copy the directory and registry 
 To run Wine's tests inside Hangover you can use scripts/hangover-test.sh as $WINETEST_WRAPPER. You
 also have to create an empty file server/wineserver (just touch it, it doesn't need anything special)
 to make Wine's tools/runtest happy. See comments in scripts/hangover-test.sh for more details
+
+
+### 13) Donations
+
+For anyone interested, a Patreon for André can be found here:
+
+https://www.patreon.com/andre_opensource
